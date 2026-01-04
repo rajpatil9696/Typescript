@@ -50,7 +50,7 @@ const res3=double(5);
 console.log(res3);
 
 // arrrow function 
-const triple=(x:number) :number=> 3*x;
+const triple=(x:number) :number=> 4*x;
 
 console.log(triple(5));
 
